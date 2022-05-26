@@ -1,0 +1,689 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+
+/* =============================header=========================================================================================================== */
+
+
+/* =============================header=========================================================================================================== */
+
+
+/* =============================header=========================================================================================================== */
+
+
+/* =============================header=========================================================================================================== */
+
+
+/* =============================header=========================================================================================================== */
+
+main.header {
+    background: url("./img/images/header_background_01.jpg") no-repeat top center / cover;
+    width: 100%;
+    height: 1000px;
+    margin: auto;
+    position: relative;
+}
+
+main.header section.main_head {
+    width: 1440px;
+    height: 1000px;
+    margin: auto;
+    position: relative;
+}
+
+section.main_head header {
+    max-width: 1165px;
+    margin: auto;
+}
+
+section.main_head header nav.navbar .container-fluid .collapse {
+    max-width: 1165px;
+    margin: auto;
+}
+
+section.main_head header nav.navbar .container-fluid .collapse ul li a,
+.container-fluid a {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+main.header section.main_head .main_text {
+    height: 325px;
+    width: 480px;
+    text-align: right;
+    color: #fff;
+    position: absolute;
+    top: 400px;
+    right: 180px;
+}
+
+main.header section.main_head .main_text h1 {
+    font-size: 65px;
+    text-transform: uppercase;
+}
+
+main.header section.main_head .main_text p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    margin: 30px 0px 60px 0px;
+}
+
+main.header section.main_head .main_text button {
+    width: 255px;
+    height: 50px;
+    border: none;
+    color: #100667;
+    font-size: 24px;
+}
+
+
+/* =============================vectors=========================================================================================================== */
+
+
+/* =============================vectors=========================================================================================================== */
+
+
+/* =============================vectors=========================================================================================================== */
+
+
+/* =============================vectors=========================================================================================================== */
+
+main.header section.main_head img.Smart_Object1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+main.header section.main_head img.Smart_Object2 {
+    position: absolute;
+    top: 140px;
+    left: 232px;
+}
+
+main.header section.main_head img.Smart_Object3 {
+    position: absolute;
+    top: 155px;
+    left: 450px;
+}
+
+main.header section.main_head img.Smart_Object4 {
+    position: absolute;
+    top: 176px;
+    left: 40px;
+}
+
+main.header section.main_head img.Smart_Object5 {
+    position: absolute;
+    top: 179px;
+    left: 477px;
+}
+
+main.header section.main_head img.Smart_Object6 {
+    position: absolute;
+    top: 551px;
+    left: 57px;
+}
+
+main.header section.main_head img.Smart_Object7 {
+    position: absolute;
+    top: 396px;
+    left: 598px;
+}
+
+main.header section.main_head img.Smart_Object8 {
+    position: absolute;
+    top: 675px;
+    left: 455px;
+}
+
+main.header section.main_head img.Smart_Object9 {
+    position: absolute;
+    top: 566px;
+    left: 620px;
+}
+
+main.header section.main_head img.Smart_Object10 {
+    position: absolute;
+    top: 640px;
+    left: 584px;
+}
+
+main.header section.main_head img.Smart_Object12 {
+    position: absolute;
+    top: 280px;
+    right: -130px;
+}
+
+.Ellipse_ {
+    border-radius: 50%;
+    background-color: rgb(255, 24, 98);
+    opacity: 0.6;
+    position: absolute;
+    left: 121px;
+    top: 230px;
+    width: 527px;
+    height: 527px;
+    z-index: 287;
+    text-align: center;
+}
+
+.Ellipse_ h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 70px;
+    margin-top: 180px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.Ellipse_ h2 {
+    font-family: 'Monoton', cursive;
+    font-size: 75px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+
+/* =======================================================guests================================================================================ */
+
+
+/* =======================================================guests================================================================================ */
+
+
+/* =======================================================guests================================================================================ */
+
+
+/* =======================================================guests================================================================================ */
+
+main.guests {
+    text-align: center;
+    height: 490px;
+    width: 100%;
+    background-color: black;
+}
+
+main.guests i {
+    font-size: 52px;
+    padding-top: 90px;
+    display: block;
+}
+
+main.guests h4 {
+    font-size: 30px;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+main.guests p {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    display: block;
+    width: 885px;
+    margin: auto;
+    color: #fff;
+}
+
+
+/* =======================================================newitems================================================================================ */
+
+
+/* =======================================================newitems================================================================================ */
+
+
+/* =======================================================newitems================================================================================ */
+
+
+/* =======================================================newitems================================================================================ */
+
+main.new_items {
+    width: 100%;
+    height: 390px;
+    background-color: #aa15b6;
+}
+
+main.new_items .row {
+    width: 1250px;
+    margin: auto;
+    justify-content: space-between;
+    padding-top: 60px;
+    color: #fff;
+    height: 100%;
+}
+
+main.new_items .row .con {
+    width: 280px;
+    height: 175px;
+}
+
+main.new_items .row .con i {
+    font-size: 46px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+main.new_items .row .con h5 {
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 35px;
+}
+
+main.new_items .row .con p {
+    display: block;
+    width: 280px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+main.priorities {
+    width: 100%;
+    margin: auto;
+    background: url("./img/images/Place\ Your\ Design\ Here\ \(Double\ Click\ to\ Edit\).png") no-repeat bottom center / cover;
+    height: 840px;
+    color: #fff;
+}
+
+main.priorities h3 {
+    text-align: center;
+    padding-top: 95px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+main.priorities p.lorem {
+    display: block;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 125px;
+    font-size: 18px;
+}
+
+main.priorities .row {
+    width: 1250px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+main.priorities .row .con {
+    width: 365px;
+    background-color: #aa15b6;
+    height: 365px;
+}
+
+main.priorities .row .con .internal_con {
+    width: 200px;
+    height: 251px;
+    margin-left: 62px;
+    margin-top: 53px;
+}
+
+main.priorities .row .con .internal_con h4 {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 62px;
+}
+
+main.priorities .row .con .internal_con p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+main.priorities .row .con .internal_con .manager {
+    width: 200px;
+    height: 62px;
+    position: relative;
+}
+
+main.priorities .row .con .internal_con .manager img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+main.priorities .row .con .internal_con .manager h5 {
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 0px;
+    position: absolute;
+    left: 78px;
+    top: 12px;
+    text-transform: uppercase;
+}
+
+main.priorities .row .con .internal_con .manager p {
+    position: absolute;
+    top: 25px;
+    right: 8px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    opacity: 0.6;
+}
+
+main.exactly {
+    height: 830px;
+    margin: auto;
+    background-color: black;
+}
+
+main.exactly h3 {
+    text-align: center;
+    color: #fff;
+    padding-top: 90px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+main.exactly p {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    display: block;
+    width: 710px;
+    margin: 35px auto 58px;
+}
+
+main.exactly nav.exactly-nav {
+    width: 100%;
+    margin: auto;
+}
+
+main.exactly nav.exactly-nav ul.exactly-ul {
+    width: 350px;
+    margin: 50px auto 65px;
+    justify-content: space-between;
+}
+
+main.exactly nav.exactly-nav ul.exactly-ul li.exactly-li a.exactly-a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+main.exactly .universe {
+    height: 355px;
+    width: 1440px;
+    margin: auto;
+    display: flex;
+}
+
+main.exactly .universe img {
+    border: none;
+}
+
+main.motiv_ss {
+    width: 100%;
+    height: 455px;
+    margin: auto;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+
+main.motiv_ss h2 {
+    margin-top: 75px;
+    font-size: 70px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+main.motiv_ss p {
+    display: block;
+    width: 693px;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    opacity: 0.8;
+    margin-bottom: 60px;
+}
+
+main.numbers_awards {
+    width: 100%;
+    margin: auto;
+    height: 685px;
+    position: relative;
+    background: url("./img/images/background universe (Double Click to Edit).png") no-repeat center;
+    background-color: #000;
+}
+
+main.numbers_awards h2 {
+    text-align: center;
+    color: #fff;
+    padding-top: 170px;
+    padding-bottom: 96px;
+}
+
+main.numbers_awards .row {
+    width: 635px;
+    height: 105px;
+    margin: auto;
+    color: #fff;
+    justify-content: space-between;
+}
+
+main.numbers_awards .row .con {
+    width: 140px;
+    height: 105px;
+}
+
+main.numbers_awards .row .con p {
+    font-size: 13px;
+    width: 125px;
+    display: block;
+    font-family: 'Raleway', sans-serif;
+}
+
+main.numbers_awards .row .con h4 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+}
+
+main.numbers_awards .row .con h3 {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+main.projects {
+    width: 100%;
+    height: 1460px;
+    /* margin: 115px auto; */
+    background: #000;
+    color: #fff;
+}
+
+main.projects .container {
+    width: 1065px;
+    height: 1460px;
+    padding: 115px 0px;
+    /* background: #000; */
+}
+
+main.projects .beautifull-design {
+    height: 380px;
+    margin: auto;
+    text-align: center;
+}
+
+main.projects .beautifull-design.right_con1,
+main.projects .beautifull-design.left_con1 {
+    margin-bottom: 45px;
+}
+
+main.projects .beautifull-design.right_con1 .right_text1,
+main.projects .beautifull-design.left_con1 .left_text1,
+main.projects .beautifull-design.right_con2 .right_text2 {
+    width: 370px;
+    height: 195px;
+    margin: auto;
+    text-align: center;
+}
+
+main.projects .beautifull-design h5 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+main.projects .beautifull-design h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+
+main.projects .beautifull-design p {
+    display: block;
+    width: 370px;
+    font-size: 14px;
+    opacity: 0.7;
+    font-family: 'Raleway', sans-serif;
+}
+
+main.trips {
+    width: 100%;
+    height: 225px;
+    background-color: #aa15b6;
+    margin: auto;
+    color: #fff;
+}
+
+main.trips .row {
+    width: 1065px;
+    justify-content: space-between;
+    padding-top: 75px;
+}
+
+main.trips .row .col_trip {
+    width: 230px;
+    border-left: 8px #fff solid;
+}
+
+main.trips .row .col_trip p {
+    font-family: 'Raleway', sans-serif;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+main.motiv_ss-soc_icons {
+    width: 100%;
+    height: 340px;
+    margin: auto;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+
+main.motiv_ss-soc_icons h2 {
+    padding-top: 47px;
+    font-size: 70px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+main.motiv_ss-soc_icons p {
+    display: block;
+    width: 693px;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    opacity: 0.8;
+    margin-bottom: 32px;
+}
+
+main.motiv_ss-soc_icons h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+main.motiv_ss-soc_icons .soc_icons {
+    width: 330px;
+    height: 46px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+main.motiv_ss-soc_icons .soc_icons i {
+    font-size: 30px;
+    color: #fff;
+}
+
+main.footer {
+    width: 100%;
+    height: 325px;
+    margin: auto;
+    background-color: #aa15b6;
+    color: #fff;
+}
+
+main.footer .container {
+    width: 1065px;
+    padding-top: 72px;
+    color: #fff;
+}
+
+main.footer .container footer.row {
+    position: relative;
+}
+
+main.footer .container footer.row .col_about {
+    width: 320px;
+    height: 145px;
+}
+
+main.footer .container footer.row h5 {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+
+main.footer .container footer.row .col_about p {
+    font-size: 14px;
+    font-family: 'Raleway';
+    font-weight: 400;
+    display: block;
+    width: 250px;
+}
+
+main.footer .container footer.row .col_navs {
+    width: 440px;
+    display: flex;
+    position: absolute;
+    right: 0;
+}
+
+main.footer .container footer.row .col_navs .col {
+    width: 67px;
+}
+
+main.footer .container footer.row .col_navs .col ul li a {
+    color: #fff;
+    font-family: 'Raleway';
+    font-weight: 700;
+}
